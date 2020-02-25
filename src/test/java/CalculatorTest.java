@@ -8,9 +8,9 @@ public class CalculatorTest {
     @Test
     public void addTest() {
 
-        Assert.assertEquals(Calculator.add(1,2),3);
-        Assert.assertEquals(Calculator.add(-1,-1),-2);
-        Assert.assertEquals(Calculator.add(1,2,3,4,5),15);
+        Assert.assertEquals(Calculator.Add(1,2),3);
+        Assert.assertEquals(Calculator.Add(-1,-1),-2);
+        Assert.assertEquals(Calculator.Add(1,2,3,4,5),15);
     }
     @Test
     public void mutilplyTest() {
