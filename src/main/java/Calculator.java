@@ -61,20 +61,5 @@ public class Calculator {
                 }
             }
         }
-//        Add(1,2,3,4,5);
-        // should return 15
-//        Add(1,2);
-        // should still return 3
-//        Add(-1,-1);
-        // should still return -2
-
-
-//        mutilply(1,2,3,4,5);
-        // should return 120
-//        multiply(1,3);
-        // should still return 3
-//        multiply(-1,3);
-        // should still return -3
-
     }
 }
